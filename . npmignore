@@ -1,0 +1,6 @@
+#! .npmignore
+src
+coverage
+.vscode
+LICENSE
+tsconfig.json
