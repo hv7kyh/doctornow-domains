@@ -1,0 +1,16 @@
+{
+  "name": "domains",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Noah",
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/typeorm": "^7.1.5",
+    "mysql": "^2.18.1",
+    "typeorm": "^0.2.29"
+  },
+  "devDependencies": {
+    "typescript": "3.4.3"
+  }
+}
